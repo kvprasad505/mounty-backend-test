@@ -1,0 +1,27 @@
+.grid-container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: auto auto auto;
+    background-color:whitesmoke;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    height:auto;
+    color:red;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  
+
+  .aa{
+    color: red;
+    text-align:center;
+
+}
+.container{
+    text-align:center;
+}
